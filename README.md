@@ -12,10 +12,10 @@
 
 <!-- links to my social media accounts -->
 
-[1]: https://www.linkedin.com/in/ombharatiya
-[2]: https://www.github.com/ombharatiya
-[3]: https://www.twitter.com/ombharatiya
-[5]: https://stackoverflow.com/users/8454203/om-bharatiya
+[1]: https://www.linkedin.com/in/soumitra-mandal21/
+[2]: https://www.github.com/Soumitra-Mandal
+[3]: https://www.twitter.com/soumi5248
+[5]: https://stackoverflow.com
 
 <!-- Don't remove this --- https://github.com/ombharatiya -->
 
