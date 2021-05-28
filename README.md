@@ -27,7 +27,7 @@ As **Kent Beck** said:
 >I'm just a good programmer with great habits.
 
 I am a ***MERN stack developer*** with a knack for solving automation problems using python. 
-Do check out my repositories on some of the python projects I have made.
+Do check out my repositories on some of the React,python and some miscellaneous projects I have made.
 
 ### **Connect** with me:
 
