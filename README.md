@@ -1,7 +1,3 @@
-<!-- Don't remove this --- https://github.com/ombharatiya -->
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
 
 <!-- icons  -->
 
@@ -9,6 +5,8 @@
 [2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
 [3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
 [5.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
+
+<a href="https://app.daily.dev/Soumitra21"><img src="https://api.daily.dev/devcards/72f641239ad04f828307486ea6e99747.png?r=xm8" width="400" alt="SOUMITRA MANDAL's Dev Card"/></a>
 
 <!-- links to my social media accounts -->
 
